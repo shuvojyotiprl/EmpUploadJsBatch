@@ -1,0 +1,17 @@
+{
+  "name": "emp-upload",
+  "version": "1.0.0",
+  "description": "this will be used for bulk upload of employee records from delimited file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shuvo J.",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "mongodb": "^3.5.9",
+    "yargs": "^15.3.1"
+  }
+}
