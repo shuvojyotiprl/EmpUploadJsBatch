@@ -1,0 +1,1 @@
+node EmpUpldBatch.js --hrdtl=HR101 --wgdtl=WG101 --prjdtl=PRJ101 --filename=EmpUpld_20200616.csv
